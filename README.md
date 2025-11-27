@@ -25,7 +25,7 @@ I’m passionate about Data Analytics, Backend Development, and turning raw data
 📍 Based in India
 
 🛠 Tech & Tools
-Python | C++ | SQL | MySQL | Power BI | Django | SQLite3 | NumPy | Pandas | Matplotlib | Plotly | HTML5 | CSS | Git | GitHub | Canva | Figma | Premiere Pro
+Python | C++ | SQL | MySQL | Power BI | Django | SQLite3 | NumPy | Pandas | Matplotlib | Plotly | HTML5 | CSS | Git | GitHub | Canva 
 
 ✨ Featured Projects
 🔹 Smart Placement Portal — Django + SQL
