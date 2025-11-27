@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="./abhinav_banner.png" alt="Abhinav Kaushal Banner" width="100%">
+  <img src="./banner image.png" alt="Abhinav Kaushal Banner" width="100%">
 </p>
 
 <h1 align="center">🌟 Hey there, I'm Abhinav — Welcome to my GitHub!</h1>
